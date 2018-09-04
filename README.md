@@ -1,4 +1,4 @@
-# vue.elm.webApp
+# vue.外卖.webApp
 
 * http://119.29.94.99/daxiong/sell/#!/goods
 * 扫码体验：（若微信扫描请点下方访问原网页）
